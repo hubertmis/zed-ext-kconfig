@@ -1,0 +1,4 @@
+name = "Kconfig"
+grammar = "kconfig"
+path_suffixes = ["Kconfig"]
+line_comments = ["# "]

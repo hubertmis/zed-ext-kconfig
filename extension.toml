@@ -1,0 +1,11 @@
+id = "zed-ext-kconfig"
+name = "Kconfig"
+version = "0.0.1"
+schema_version = 1
+authors = ["Hubert Miś <hubert.mis@gmail.com>"]
+description = "Kconfig support"
+repository = "https://github.com/hubertmis/zed-ext-kconfig"
+
+[grammars.kconfig]
+repository = "https://github.com/tree-sitter-grammars/tree-sitter-kconfig"
+rev = "9934ff456d867d0d0f98ef365a0de410ff4e6705"
